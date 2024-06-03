@@ -1,7 +1,7 @@
 # README
 
-# Integrantes
+# Integrantes:
 
--Luis Beiza.
--Cristobal Gazitua.
--Josefa Olguin.
+* Luis Beiza.
+* Cristobal Gazitua.
+* Josefa Olguin.
